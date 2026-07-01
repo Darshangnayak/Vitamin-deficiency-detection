@@ -6,7 +6,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ImageProcessing-green?logo=opencv)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-black?logo=flask)
-![License](https://img.shields.io/badge/License-MIT-red)
+
 
 **An AI-powered web application that detects possible vitamin deficiencies from images using Deep Learning and Computer Vision.**
 
@@ -206,7 +206,7 @@ Prediction
 ## Home Page
 
 ```
-(Add Screenshot Here)
+
 ```
 
 ---
