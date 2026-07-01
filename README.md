@@ -206,12 +206,7 @@ Prediction
 ![Home Page](https://github.com/Darshangnayak/Vitamin-deficiency-detection/blob/0327161c6743f5f8704826903e1c244dac2ab851/Screenshot%202026-07-01%20112502.png)
 
 ## Upload Image
-
-```
-(Add Screenshot Here)
-```
-
----
+![Upload Image](https://github.com/Darshangnayak/Vitamin-deficiency-detection/blob/92f3a71d15fa15d71b77ce17fd8beab07f4af8ca/Screenshot%202026-07-01%20114336.png)
 
 ## Prediction Result
 
