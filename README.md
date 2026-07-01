@@ -203,10 +203,10 @@ Prediction
 
 # 📸 Screenshots
 
-## Home Page
+## Home Page9
 
 ```
-
+(Screenshot 2026-07-01 112502.png)
 ```
 
 ---
