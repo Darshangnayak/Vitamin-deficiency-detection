@@ -206,7 +206,9 @@ Prediction
 ## Home Page9
 
 ```
-(Screenshot 2026-07-01 112502.png)
+## 🏠 Home Page
+
+![Home Page](Screenshot%202026-07-01%20112502.png)
 ```
 
 ---
