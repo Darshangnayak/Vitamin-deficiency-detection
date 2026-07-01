@@ -208,7 +208,7 @@ Prediction
 ```
 ## 🏠 Home Page
 
-![Home Page](Screenshot%202026-07-01%20112502.png)
+[![Home Page](https://github.com/Darshangnayak/Vitamin-deficiency-detection/blob/main/Screenshot%202026-07-01%20112502.png)
 ```
 
 ---
